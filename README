@@ -1,0 +1,98 @@
+# Faculty Development Programme (FDP) – Linear Regression
+
+## About the Programme
+
+This repository contains the learning materials and practical implementation for the Faculty Development Programme (FDP) on **Linear Regression**.
+
+The programme introduces the fundamental concepts of Regression Analysis and its applications in Machine Learning and Predictive Analytics. It focuses on understanding regression techniques, building predictive models using Python, and evaluating model performance through practical exercises.
+
+## Objectives
+
+- Understand the fundamentals of Regression Analysis.
+- Learn Simple Linear Regression and Multiple Linear Regression.
+- Understand the mathematical foundations of Linear Regression.
+- Develop regression models using Python.
+- Interpret regression coefficients and predictions.
+- Evaluate model performance using standard evaluation metrics.
+- Apply Linear Regression to real-world datasets.
+
+## Topics Covered
+
+1. Introduction to Regression Analysis
+2. Simple Linear Regression
+3. Multiple Linear Regression
+4. Mathematical Foundations of Linear Regression
+5. Cost Function and Least Squares Estimation
+6. Model Training and Prediction
+7. Model Evaluation Metrics:
+   - Mean Absolute Error (MAE)
+   - Mean Squared Error (MSE)
+   - Root Mean Squared Error (RMSE)
+   - R-Squared (R²) Score
+8. Residual Analysis
+9. Practical Implementation using Python
+
+## Tools and Technologies
+
+- **Programming Language:** Python
+- **Platform:** Google Colab / Jupyter Notebook
+- **Libraries:**
+  - NumPy
+  - Pandas
+  - Matplotlib
+  - Seaborn
+  - Scikit-learn
+
+## Repository Structure
+
+```text
+Linear-Regression-FDP/
+│
+├── Linear_Regression_fdp.ipynb
+├── README.md
+└── datasets/
+```
+
+## Hands-on Implementation
+
+The Jupyter Notebook included in this repository demonstrates the practical implementation of Linear Regression using Python.
+
+The implementation covers:
+
+- Importing required Python libraries
+- Loading and exploring the dataset
+- Data preprocessing and visualization
+- Building a Linear Regression model
+- Training the model
+- Making predictions
+- Evaluating model performance
+- Visualizing actual and predicted values
+
+## Learning Outcomes
+
+After completing this programme, participants will be able to:
+
+- Explain the concepts and principles of Linear Regression.
+- Differentiate between Simple and Multiple Linear Regression.
+- Implement regression models using Python.
+- Interpret regression coefficients and model predictions.
+- Evaluate regression models using appropriate performance metrics.
+- Apply regression techniques to real-world predictive analytics problems.
+
+## Target Participants
+
+Faculty members, research scholars, postgraduate students, and academicians interested in Machine Learning, Data Science, and Predictive Analytics.
+
+## Platform
+
+Google Colab – https://colab.research.google.com/
+
+## Conclusion
+
+This FDP provides a combination of theoretical understanding and hands-on experience in Linear Regression, enabling participants to apply predictive modelling techniques in academic, research, and real-world applications.
+
+---
+
+**Programme:** Faculty Development Programme (FDP)  
+**Topic:** Linear Regression  
+**Domain:** Machine Learning and Predictive Analytics
